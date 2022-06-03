@@ -39,6 +39,7 @@ The repository is not publicly editable so to add your work to the documents you
 ## Links
 - [Github Markdown Document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Official Discord Server](https://discord.gg/DSmjVvmBEd)
+- [A list of good README](https://github.com/matiassingers/awesome-readme)
 
 ## License
 > Copyright 2022-present The Layton Fangame Community
