@@ -29,10 +29,10 @@ The repository is not publicly editable so to add your work to the documents you
 ## Roadmap
 - [x] Make a table of contents for the readme.
 - [x] Fill in the readme.
-- [ ] Create documents for the wiki:
-	- [ ] Game Design
-	- [ ] Art 
-	- [ ] Technical
+- [x] Create documents for the wiki:
+	- [x] Game Design
+	- [x] Art 
+	- [x] Technical
 - [ ] Make a table of contents for the documens.
 - [ ] Fill in the documents.
 
