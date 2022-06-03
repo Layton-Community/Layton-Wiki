@@ -42,4 +42,4 @@ The repository is not publicly editable so to add your work to the documents you
 ## License
 > Copyright 2022-present The Layton Fangame Community
 > 
-> All resources, including Game assets (images, sounds, videos), are licensed under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/), included in the [LICENSE](../main) file
+> All resources, including Game assets (images, sounds, videos), are licensed under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/), included in the [LICENSE](../main/LICENSE) file
