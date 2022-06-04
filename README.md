@@ -20,7 +20,7 @@ The repository is not publicly editable so to add your work to the documents you
 1. Click on the `Fork` button.
 2. Click on the `main` button then add a name for your new branch.
 3. Edit the documents.<br>
-	Or create a new one (to crate folders add: `/theFolder/theNewFile.extension`)
+	Or create a new one (to add folders, add a `/` ➜ `/theFolder/theNewFile.md`)
 4. Click on the `Pull requests` button.
 5. Click on the `New pull requests` button.
 6. Click on the `create pull requests` button.
