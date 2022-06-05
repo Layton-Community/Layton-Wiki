@@ -50,3 +50,12 @@ The objective is to avoid long blocks of text.
 > Copyright 2022-present The Layton Fangame Community
 > 
 > All resources, including Game assets (images, sounds, videos), are licensed under the [Creative Commons CC-BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/), included in the [LICENSE](../main/LICENSE) file
+
+## Contributors ✨
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/MrPhnix"><img src="https://avatars.githubusercontent.com/u/76911907" width="100px;" alt=""/><br/><sub><b>Phnix</b></sub></a><br/><a title="Code">💻</a><a title="Documentation">📖</a></td>
+  </tr>
+</table>
