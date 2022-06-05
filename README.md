@@ -42,6 +42,7 @@ The objective is to avoid long blocks of text.
 
 ## Links
 - [Github Markdown Document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Official Discord Server](https://discord.gg/DSmjVvmBEd)
 - [A list of good README](https://github.com/matiassingers/awesome-readme)
 - [The commit convention until we specify it.](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#default)
