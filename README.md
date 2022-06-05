@@ -27,8 +27,8 @@ The repository is not publicly editable so to add your work to the documents you
 7. Go to the discord server and inform the programming channel that there is a pull request for the wiki.
 
 ## Guidelines
-To be as efficient as possible, it is important to have a well-structured table of contents,
-that everything is clearly defined, before filling it with google docs.
+To be as efficient as possible, it is important to have a well-structured table of contents/headings,<br>
+so that everything is clearly defined, before filling it with the google docs.
 
 The objective is to avoid long blocks of text.
 
