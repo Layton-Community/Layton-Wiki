@@ -14,7 +14,7 @@ The repository is not publicly editable so to add your work to the documents you
 - Make the repository your own.
 - Create a new branch for your changes.
 - Edit the documents.
-- Request a "pull request" to add your chenges to the original repository.
+- Request a "pull request" to add your modification to the original repository.
 
 ### How
 1. Click on the `Fork` button.
@@ -31,6 +31,10 @@ To be as efficient as possible, it is important to have a well-structured table 
 so that everything is clearly defined, before filling it with the google docs.
 
 The objective is to avoid long blocks of text.
+
+### Commits
+Each commits must respect the [convention](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13#default).<br>
+And the subject must begin with a capital letter and end with a period.
 
 ## Roadmap
 - [x] Create documents if needed for the wiki.
